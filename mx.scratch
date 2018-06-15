@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
-<ProjectName>E:\stm32program\mydctest\f103zet_9250xdbus\\f103zet_9250xdbus</ProjectName>
+<ProjectName>E:\stm32program\mydctest\f103zet_nR\\f103zet_9250xdbus</ProjectName>
 <ProjectNature>C</ProjectNature> 
 <CMSIS>..\Drivers\CMSIS</CMSIS>
 <HAL_Driver>E:\stm32program\CubeRepo\STM32Cube_FW_F1_V1.6.0\Drivers\CMSIS</HAL_Driver>
@@ -35,7 +35,7 @@
     <usedDebug>true</usedDebug>
     	<debugprobe>swd</debugprobe>
     <optimization>2</optimization>
-    <icfloc>1</icfloc>
+    <icfloc>0</icfloc>
     <Adefines>
         <define></define>
     </Adefines>   

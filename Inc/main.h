@@ -46,6 +46,8 @@
 
 /* Private define ------------------------------------------------------------*/
 
+#define NRF_CE_Pin GPIO_PIN_4
+#define NRF_CE_GPIO_Port GPIOA
 #define SPI_NSS_Pin GPIO_PIN_4
 #define SPI_NSS_GPIO_Port GPIOC
 #define INTERRUPT_RF_Pin GPIO_PIN_5
